@@ -64,6 +64,11 @@ h4 {
   font-weight: 200;
   text-align: center;
 }
+
+iframe {
+	margin-left: auto;
+	margin-right: auto;
+}
 .social a{
 	font-size: 4.5em;
 	padding: 3rem
@@ -84,7 +89,7 @@ h4 {
 .fa-facebook:hover,
 .fa-twitter:hover,
 .fa-instagram:hover{
-  color: #d5d5d5; 
+  color: #d5d5d5;
 }
 
 footer{
@@ -98,10 +103,10 @@ footer{
 
   }
 @media (max-width: 768px) {
-  
+
 }
 @media (max-width: 576px) {
-  
+
 }
 
 
@@ -167,11 +172,3 @@ Large (lg) devices (desktops, 992px and up)
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 */
-
-
-
-
-
-
-
-
