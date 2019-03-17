@@ -10,6 +10,21 @@ p{
   font-size:110%;
 }
 
+/*Links to appear when mouse is hovered over*/
+a:link{
+  color:blue;
+}
+
+/*Visited link*/
+a:visited{
+  color:purple;
+}
+
+a:hover{ 
+  color: red;
+}
+
+/*Nav Bar Stuff*/
 .navbar {
 	padding: : .8rem;
 }
@@ -58,7 +73,7 @@ p.mission-statement{
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 1500px;
   position: relative;
   margin: auto;
 }
@@ -266,8 +281,9 @@ p.industry-text{
 
 .resource-links{
     font-family:"Courier New", Courier, monospace;
-    font-size:110%;
+    font-size:110%;   
 }
+
 
 /*End of Resource section*/
 
